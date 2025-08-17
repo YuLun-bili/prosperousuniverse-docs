@@ -74,7 +74,7 @@ git submodule update --init --recursive
 To build and run the documentation a single Hugo command is enough:
 
 ```bash
-hugo -D serve
+hugo -D server
 ```
 
 This will create all the articles from the sources and start a local webserver serving the documentation. Navigate to the given URL (most likely ```http://localhost:1313/```) in your browser to see it. 
