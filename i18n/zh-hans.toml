@@ -1,0 +1,11 @@
+[Shortcuts-Title]
+  other = "更多内容"
+
+[aboutThisPage.title]
+  other = "关于此页面"
+
+[aboutThisPage.wiki]
+  other = "此页面是APEX手册百科的一部分。若您意图入门APEX，请参见[教程](../../tutorials/index.zh-hans.html)。"
+
+[aboutThisPage.contact]
+  other = "若您遇到错误或无法通过手册解答您的问题，我们非常乐意通过我们的[Discord频道](https://discordapp.com/invite/G7gj7PT)为您提供帮助。"
