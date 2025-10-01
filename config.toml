@@ -25,7 +25,7 @@ title = "Prosperous Universe Handbuch"
 weight = 2
 languageName = "Deutsch"
 
-[languages.zh-Hans]
+[languages.zh-hans]
 title = "Prosperous Universe 手册"
 weight = 3
 languageName = "简体中文"
